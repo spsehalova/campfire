@@ -102,13 +102,13 @@
 				},
 				{
 					"sponsor": "SPŠE Hálova",
-					"logo": "https://spsehalova.pages.dev/HalovaKit/Logo/FullLogo.svg",
+					"logo": "https://github.com/spsehalova/campfire/raw/refs/heads/main/Partners/SPSEHalova/Logo.svg",
 					"link": "https://spsehalova.sk"
 				},
 				{
 					"sponsor": "Acer",
-					"logo": "https://spsehalova.pages.dev/HalovaKit/Logo/FullLogo.svg",
-					"link": "https://spsehalova.sk"
+					"logo": "https://raw.githubusercontent.com/spsehalova/campfire/refs/heads/main/Partners/Acer/Logo.svg",
+					"link": "https://acer.com"
 				}
 			]
 		},
@@ -120,15 +120,15 @@
 				"questions": [
 					{
 						"question": "Čo je game jam?",
-						"answer": "Game jam je podujatie, kde v krátkom čase vytvoríš hru od nuly! Ide o kreativitu, tímovú prácu a zábavu pri učení sa nových zručností."
+						"answer": "GameJam je podujatie, kde v krátkom čase vytvoríš hru od nuly! Ide o kreativitu, tímovú prácu a zábavu pri učení sa nových zručností."
 					},
 					{
 						"question": "Môžem sa zúčastniť?",
-						"answer": "Ak si stredoškolák (alebo mladší), môžeš sa zúčastniť! Nie je potrebná žiadna predchádzajúca skúsenosť – prines len nadšenie a chuť učiť sa."
+						"answer": "Ak si stredoškolák, môžeš sa zúčastniť! Nie je potrebná žiadna predchádzajúca skúsenosť, prines len nadšenie a chuť učiť sa."
 					},
 					{
 						"question": "Ešte som nikdy nehackoval!",
-						"answer": "Skvelé! Game jamy sú navrhnuté pre začiatočníkov. Budú tu workshopy, mentori a spoluhráči, ktorí ti pomôžu v každom kroku."
+						"answer": "Neboj, budú tu workshopy, mentori a spoluhráči, ktorí ti pomôžu v každom kroku."
 					},
 					{
 						"question": "To všetko zadarmo?",
