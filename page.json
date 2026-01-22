@@ -163,6 +163,11 @@
 				],
 				"buttonText": "Začať organizovať"
 			}
+		},
+		"organizer": {
+			"title": "",
+			"questions": [],
+			"buttonText": ""
 		}
 	}
 }
