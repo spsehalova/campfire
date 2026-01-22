@@ -1,0 +1,146 @@
+{
+	"version": 2,
+	"localization": {
+		"hero": {
+			"campfire": "CAMPFIRE",
+			"subtitle": "Game jam pre stredoškolákov\nvo viac než 200 mestách",
+			"hostedAt": "Prebieha na ",
+			"emailPlaceholder": "ty@hackclub.com",
+			"ctaPrimary": "PRIHLÁSIŤ SA!",
+			"ctaSecondary": "flagship",
+			"ctaSecondaryPrefix": "Hľadáš ",
+			"ctaSecondarySuffix": "?",
+			"videoLabel": "pozri si video",
+			"mapLabel": "Bratislava je daľeko?\nKukni iný Campfire v okolí"
+		},
+		"nav": {
+			"steps": "Kroky",
+			"schedule": "Program",
+			"games-made": "Vytvorené hry",
+			"faq": "FAQ"
+		},
+		"schedule": {
+			"title": "PROGRAM"
+		},
+		"sponsors": {
+			"title": "Naši sponzori"
+		},
+		"signatures": {
+			"title": "Podpisy"
+		},
+		"steps": {
+			"step1": "Prihlás sa na **Campfire** v tvojom okolí",
+			"step2": "Zober si **priateľov** (alebo si nájdi nových!) a __zostav__ **tím 2–3**",
+			"step3": "Nauč sa na **workshopoch**, uži si __bezplatné jedlo a suveníry!__",
+			"step4": "**Vytvor** svoju hru, **zverejni** ju a **vyhraj ceny!**",
+			"guideButton": "ČÍTAJ VIAC"
+		},
+		"letter": {
+			"greeting": "Ahojte hackeri, tvorci, makeri,",
+			"paragraph1": "Vítame ťa v najnovšom dobrodružstve Hack Clubu. Túto zimu ťa pozývame pridať sa k nám na Campfire, najväčší Game Jam na svete, ktorý sa koná súčasne v 200 mestách.",
+			"paragraph2": "Hack Club chce, aby si túto zimu vytvoril\\*a hru.",
+			"paragraph3": "Nepovažuješ sa za Game Deva? Žiadny problém, máme množstvo online aj osobných workshopov, ktoré ti pomôžu vytvoriť si svoju prvú hru!",
+			"paragraph4": "Túto zimu ťa pozývame naučiť sa niečo nové, vytvoriť niečo, na čo budeš hrdý\\*á, spoznať nových priateľov a spoločne zažiť úžasné dobrodružstvo.",
+			"closing": "S láskou,",
+			"signature": "Tím Campfire"
+		},
+		"footer": {
+			"tagline": "vytvorené s láskou Hack Clubom a Open Sauce",
+			"copyright": "© 2026 Hack Club. US-based 501(c)(3) nezisková organizácia (EIN: 81-2908499)",
+			"description": "Hack Club je 501(c)(3) nezisková organizácia a sieť viac než 60 000 technicky zameraných stredoškolákov. Veríme, že sa najlepšie učíš praxou, preto vytvárame komunitu a poskytujeme granty, aby si mohol/mohla robiť skvelé projekty. V posledných rokoch sme spolupracovali s GitHubom na prevádzke ",
+			"closing": "V Hack Clube študenti nielen získavajú vedomosti, ale aj svoje projekty uvádzajú do sveta.",
+			"links": [
+				{
+					"text": "Hack Club",
+					"href": "https://hackclub.com/"
+				},
+				{
+					"text": "Slack",
+					"href": "https://hackclub.com/slack"
+				},
+				{
+					"text": "Hack Club Kluby",
+					"href": "https://hackclub.com/clubs"
+				},
+				{
+					"text": "Kódex správania",
+					"href": "https://hackclub.com/conduct/"
+				}
+			]
+		}
+	},
+	"event": {
+		"city": "Bratislava",
+		"date": "Feb 27 - Mar 1, 2026",
+		"venue": {
+			"name": "SPŠE Hálova",
+			"link": "https://www.google.com/maps/place/Stredná+priemyselná+škola+elektrotechnická/@48.120986,17.1031495,446m/data=!3m2!1e3!4b1!4m6!3m5!1s0x476c899fd4718761:0xdddf2760e8466359!8m2!3d48.120986!4d17.1045952!16s%2Fg%2F1tfzqqc_?entry=ttu&g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D"
+		},
+		"schedule": {
+			"days": [
+				{
+					"date": "27. februára",
+					"items": [
+						{
+							"time": "17:00",
+							"activity": "Otvárame"
+						},
+						{
+							"time": "18:00",
+							"activity": "Viac info este pridáme"
+						}
+					]
+				}
+			]
+		},
+		"sponsors": {
+			"cards": [
+				{
+					"sponsor": "Hack Club",
+					"logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
+					"link": "https://hackclub.com"
+				},
+				{
+					"sponsor": "SPŠE Hálova",
+					"logo": "https://spsehalova.pages.dev/HalovaKit/Logo/FullLogo.svg",
+					"link": "https://spsehalova.sk"
+				},
+				{
+					"sponsor": "Acer",
+					"logo": "https://spsehalova.pages.dev/HalovaKit/Logo/FullLogo.svg",
+					"link": "https://spsehalova.sk"
+				}
+			]
+		},
+		"signatures": false,
+		"faq": {
+			"title": "FAQ",
+			"participant": {
+				"title": "Účastník",
+				"questions": [
+					{
+						"question": "Čo je game jam?",
+						"answer": "Game jam je podujatie, kde v krátkom čase vytvoríš hru od nuly! Ide o kreativitu, tímovú prácu a zábavu pri učení sa nových zručností."
+					},
+					{
+						"question": "Môžem sa zúčastniť?",
+						"answer": "Ak si stredoškolák (alebo mladší), môžeš sa zúčastniť! Nie je potrebná žiadna predchádzajúca skúsenosť – prines len nadšenie a chuť učiť sa."
+					},
+					{
+						"question": "Ešte som nikdy nehackoval!",
+						"answer": "Skvelé! Game jamy sú navrhnuté pre začiatočníkov. Budú tu workshopy, mentori a spoluhráči, ktorí ti pomôžu v každom kroku."
+					},
+					{
+						"question": "To všetko zadarmo?",
+						"answer": "Áno! Všetko je úplne zadarmo – miesto konania, jedlo, vecičky, workshopy a ceny. Hack Club pokrýva všetky náklady, aby si sa mohol/mohla sústrediť na tvorbu."
+					},
+					{
+						"question": "Čo si mám priniesť?",
+						"answer": "Prines len seba, notebook, nabíjačku a osobné veci, ktoré potrebuješ. My zabezpečíme jedlo, nápoje a všetko ostatné!"
+					}
+				],
+				"buttonText": "Pozri si sprievodcu pre rodičov"
+			}
+		}
+	}
+}
