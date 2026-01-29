@@ -3,15 +3,15 @@
 	"localization": {
 		"hero": {
 			"campfire": "CAMPFIRE",
-			"subtitle": "Game jam pre stredoškolákov\nvo viac než 200 mestách",
+			"subtitle": "Game jam pre stredoškolákov v 200+ mestách",
 			"hostedAt": "Prebieha na ",
 			"emailPlaceholder": "ty@hackclub.com",
 			"ctaPrimary": "PRIHLÁSIŤ SA!",
-			"ctaSecondary": "flagship",
+			"ctaSecondary": "flagship event",
 			"ctaSecondaryPrefix": "Hľadáš ",
 			"ctaSecondarySuffix": "?",
 			"videoLabel": "pozri si video",
-			"mapLabel": "Bratislava je daľeko?\nKukni iný Campfire v okolí"
+			"mapLabel": "Ďaleko? Kukni iný Campfire v okolí"
 		},
 		"nav": {
 			"steps": "Kroky",
@@ -29,8 +29,8 @@
 			"title": "Podpisy"
 		},
 		"steps": {
-			"step1": "Prihlás sa na **Campfire** v tvojom okolí",
-			"step2": "Zober si **priateľov** (alebo si nájdi nových!) a __zostav__ **tím 2–3**",
+			"step1": "Prihlás sa na **Campfire** v tvojom okolí",
+			"step2": "Zober si **priateľov** (alebo si nájdi nových!) a __zostav__ **tím 2–3**",
 			"step3": "Nauč sa na **workshopoch**, uži si __bezplatné jedlo a suveníry!__",
 			"step4": "**Vytvor** svoju hru, **zverejni** ju a **vyhraj ceny!**",
 			"guideButton": "ČÍTAJ VIAC"
@@ -140,6 +140,28 @@
 					}
 				],
 				"buttonText": "Pozri si sprievodcu pre rodičov"
+			},
+			"organizer": {
+				"title": "Organizátor",
+				"questions": [
+					{
+						"question": "Môžem zorganizovať Campfire vo svojom meste?",
+						"answer": "Samozrejme! Neustále hľadáme nadšených organizátorov. Ak ste pripravení priniesť kúzlo vývoja hier do svojej komunity, radi vám pomôžeme."
+					},
+					{
+						"question": "Aké sa stať organizátorom?",
+						"answer": "Najskôr sa prihláste prostredníctvom nášho formulára pre organizátorov. Potom vás prevedieme procesom rezervácie priestorov, budovania tímu, plánovania workshopov a koordinácie v deň konania podujatia."
+					},
+					{
+						"question": "Získame financovanie?",
+						"answer": "Áno! Hack Club poskytuje finančné prostriedky na prenájom priestorov, občerstvenie, darčeky a ďalšie náklady spojené s podujatím. Chceme odstrániť finančné prekážky, ktoré bránia organizácii skvelých podujatí."
+					},
+					{
+						"question": "Môžem sa pripojiť k organizačnému tímu?",
+						"answer": "Samozrejme! Mnohé mestá majú organizačné tímy. Oslovte organizátorov vo vašej oblasti alebo sa prihláste do existujúceho tímu."
+					}
+				],
+				"buttonText": "Začať organizovať"
 			}
 		}
 	}
