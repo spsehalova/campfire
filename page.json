@@ -30,17 +30,17 @@
 		},
 		"steps": {
 			"step1": "Prihlás sa na **Campfire** v tvojom okolí",
-			"step2": "Zober si **priateľov** (alebo si nájdi nových!) a __zostav__ **tím 2–3**",
-			"step3": "Nauč sa na **workshopoch**, uži si __bezplatné jedlo a suveníry!__",
+			"step2": "Zober si **priateľov** (alebo si nájdi nových!) a __zostav__ **tím 3–4**",
+			"step3": "Nauč sa na **workshopoch**, uži si __bezplatné jedlo a merch!__",
 			"step4": "**Vytvor** svoju hru, **zverejni** ju a **vyhraj ceny!**",
 			"guideButton": "ČÍTAJ VIAC"
 		},
 		"letter": {
 			"greeting": "Ahojte hackeri, tvorci, makeri,",
 			"paragraph1": "Vítame ťa v najnovšom dobrodružstve Hack Clubu. Túto zimu ťa pozývame pridať sa k nám na Campfire, najväčší Game Jam na svete, ktorý sa koná súčasne v 200 mestách.",
-			"paragraph2": "Hack Club chce, aby si túto zimu vytvoril\\*a hru.",
+			"paragraph2": "Hack Club chce, aby si túto zimu vytvoril/a hru.",
 			"paragraph3": "Nepovažuješ sa za Game Deva? Žiadny problém, máme množstvo online aj osobných workshopov, ktoré ti pomôžu vytvoriť si svoju prvú hru!",
-			"paragraph4": "Túto zimu ťa pozývame naučiť sa niečo nové, vytvoriť niečo, na čo budeš hrdý\\*á, spoznať nových priateľov a spoločne zažiť úžasné dobrodružstvo.",
+			"paragraph4": "Túto zimu ťa pozývame naučiť sa niečo nové, vytvoriť niečo, na čo budeš hrdý/á, spoznať nových priateľov a spoločne zažiť úžasné dobrodružstvo.",
 			"closing": "S láskou,",
 			"signature": "Tím Campfire"
 		},
@@ -142,32 +142,10 @@
 				"buttonText": "Pozri si sprievodcu pre rodičov"
 			},
 			"organizer": {
-				"title": "Organizátor",
-				"questions": [
-					{
-						"question": "Môžem zorganizovať Campfire vo svojom meste?",
-						"answer": "Samozrejme! Neustále hľadáme nadšených organizátorov. Ak ste pripravení priniesť kúzlo vývoja hier do svojej komunity, radi vám pomôžeme."
-					},
-					{
-						"question": "Aké sa stať organizátorom?",
-						"answer": "Najskôr sa prihláste prostredníctvom nášho formulára pre organizátorov. Potom vás prevedieme procesom rezervácie priestorov, budovania tímu, plánovania workshopov a koordinácie v deň konania podujatia."
-					},
-					{
-						"question": "Získame financovanie?",
-						"answer": "Áno! Hack Club poskytuje finančné prostriedky na prenájom priestorov, občerstvenie, darčeky a ďalšie náklady spojené s podujatím. Chceme odstrániť finančné prekážky, ktoré bránia organizácii skvelých podujatí."
-					},
-					{
-						"question": "Môžem sa pripojiť k organizačnému tímu?",
-						"answer": "Samozrejme! Mnohé mestá majú organizačné tímy. Oslovte organizátorov vo vašej oblasti alebo sa prihláste do existujúceho tímu."
-					}
-				],
-				"buttonText": "Začať organizovať"
+				"title": "",
+				"questions": [],
+				"buttonText": ""
 			}
-		},
-		"organizer": {
-			"title": "",
-			"questions": [],
-			"buttonText": ""
 		}
 	}
 }
